@@ -1,2 +1,2 @@
 # recipe
-A really basic recipe website only in html
+A recipe website only in html and some css.Nothing fancy.
