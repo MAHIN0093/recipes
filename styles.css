@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(252, 252, 0);
+}
+.home{
+    text-align:center;
+    margin: 20px;
+    padding: 10px;
+}
+header{
+    font-family: sans-serif,Arial, Helvetica;
+    color:rgb(170, 0, 255);
+    margin: 20px;
+    padding: 10px;
+}
+.lis{
+    padding: 5px;
+    list-style:none;
+}
+.ing{
+    list-style:inside square;
+}
